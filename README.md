@@ -30,5 +30,4 @@ pip install pyqrcode pillow
 
 ## Screenshots
 
-C:\Python QR Code Generator\image.png
-
+![image](https://github.com/user-attachments/assets/2d9d6dd8-ee81-4bfb-8371-4440cfbc89ce)
